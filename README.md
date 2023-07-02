@@ -1,5 +1,9 @@
 # Fishing
-A Fishing mod for Morrowind
+A Fishing mod for Morrowind, by Merlord.
+
+This repo is for the openMW version. Good luck with that.
+
+Mod users, if you stumble on this repo, you should probably go download the original instead. <3 Ultimate Fishing.
 
 ## To do
 - Fishing rods
